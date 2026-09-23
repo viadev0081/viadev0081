@@ -1,6 +1,6 @@
-## deltadev-rsc: a new account whose stocks come from [DeltaDevSys](https://github.com/DeltaDevSys).  
+## viadev0081: аккаунт, который берёт истоки от - [DeltaDevSys](https://github.com/DeltaDevSys).  
 
-### Programming languages:
+### Языки программирования:
 ![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -8,30 +8,35 @@
 ![bash](https://img.shields.io/badge/bash-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![lua](https://img.shields.io/badge/lua-black.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-### OS: 
+### Операционки: 
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue)
 
-### Technologies:
+### Инструменты, и текиналоджия:
 ![LLVM](https://img.shields.io/badge/LLVM-black.svg?style=for-the-badge&logo=llvm&logoColor=white)
 ![ncurses](https://img.shields.io/badge/ncurses-black.svg?style=for-the-badge&logo=ncurses&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-black.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-black.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
-### My projects:
+### Мои проекты:
 * ### OpenDelta
-  #### This is real big project. This is my UNIX-like OS and Linux Distro for x86_64, i386, ARM, AVR, MIPS. I'm developing UNIX-like edition solo.
-  #### A Linux distro is developed by a team. It includes a command line and its shell, a graphical shell, its own application stack, and so on.  
-  #### (28.04.2026) on 09.06.2026, there will be an alpha release of UNIX-like on i386, then in June or July, an alpha release for x86_64 will be in preparation.
-
+  #### Это действительно большой проект по задумке.
+  #### Я хочу унифицировать UNIX системы, которые по факту очень сильно разрознены, не говоря уже о дистрибутивах линукс (хотя как по мне с линуксом это было бы неизбежно).
+  #### Например было бы имбово объеденить декларативный/функциональный подход развёртки софта и порты как во FreeBSD и Gentoo.
+  #### Также было бы имбово взять кое-что из bedrock а именно возможность загружаться с разных систем инициализаций и даже реализаций libc.
+  #### Ещё по хорошему решить проблему поддержки 32-х битных библиотек в musl libc чтобы нормально работали discord, wine, steam, proton, port-proton.
+  #### И под конец сделать единый стандарт бинарей для всех UNIX систем или же улучшить ELF чтобы ELF-бинарь собранный на FreeBSD спокойно заработал на линухе или том же Oracle Solaris.
+  #### Будет поодерживать x86_64, i386, ARM, AVR, MIPS.
+  
 * ### DeltaNvim
-  #### This is my Neovim build for C, C++, Rust, Assembly and Bash
-  #### I'm developing all project in solo.
-
+  #### Сборка из конфгиов и плагинов для редактора NeoVim.
+  #### Поддерживаются языки и их LSP: C, C++, Go, Rust, Fortran, Lua, fortran, zig, haskell.
+  #### Красивый интерфейс, чёткий функционал.
+  #### Если известные AstroNvim, LuanrVim, NVChad, LazyVim делаются в команде то это я делаю в соло.
 
 ### Statistic: 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=deltadev-rsc&theme=dark&layout=compact&langs_count=5&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=viadev0081&theme=dark&layout=compact&langs_count=5&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=deltadev-rsc&theme=dark&hide_border=true" alt="My Contributions" /></a><br>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=viadev0081&theme=dark&hide_border=true" alt="My Contributions" /></a><br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deltadev-rsc&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viadev0081&theme=dark)
