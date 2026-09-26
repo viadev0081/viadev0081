@@ -55,7 +55,8 @@
   ##### Пока есть только терминалы Alacritty, Kitty, Ghostty, WezTerm для остальных я сделал базовый вывод лого и информации о терминале.
 
 ### Стата: 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=viadev0081&theme=dark&layout=compact&langs_count=5&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=viadev0081&theme=dark&layout=compact&langs_count=5&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
+---> 
 
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=viadev0081&theme=dark&hide_border=true" alt="My Contributions" /></a><br>
 
