@@ -7,9 +7,9 @@
 ![zig](https://img.shields.io/badge/zig-black.svg?style=for-the-badge&logo=zig&logoColor=orange)
 ![go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=blue)
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=data:image/webp;base64,UklGRo4EAABXRUJQVlA4TIEEAAAvL8ALEPXI1fbPkKW5s42m/tVr27Zt27Zt27ZS27ZV6P9kJ6z07C3sM1ew+q/if7ZGPyesW9jQSCDItp220daznu6Bqy+FmczMTgTGgARHACBD0tqO9mzbtq2qRlU7vf/HA0cUAILKR67ZvkITt05hW1dwHaAm23UGG1OreQG758BtJEVytMyHf3ApqwDTDADBBJRAEM4TANTkCsJ/KNJyApYIx9egxVAWFIR2UQPMWXBLSGbxOYayEJagXMooMvCICDw/jJTrA2MF0C2KXBtERLJKv3HbJuIAUDejyDxSSPpuE0X+cDpg/YoizxZp5D1Jb8cCDAG8iBqAsqCKdCTjeIMAQPkA+h9F2g6ZgZvaQjWZ5EKA6Rg1wIIFt8hC5uGtySQXEQaAqxlFRgHZEn4cC5Hu9J8AQE8ocsvIStbpL4Ph0+wE4UHW1T3dammcyzEFmvLbFz2cA/29HfWONwKqBVmQniet2xtNmgdEVEr8eVNSAiIiGbh9q/jM5gDQhy7rVLj2LrqDcro5h5Rp2aLbKO+6KrihC/yesaeoEDIzz38pJCSilc9pfkB/SPkrHV9sA0DrrGtrnHq/+jZuMxti5td+XLwqPVEyEKXG6d7icU427qT6y7qsZ3+KsnLnii65qCs0FMThwSJOqDDNsKoet/4+qqN57JbOyzP/xdzb2XMH5dQ43GMObIso1W9+jvpPLdtbR1TbAdWlo/Sm6TQvAZjOjCEzla6qot7uvryLX1+62ofub7+tcw4ObS2v5+TKCO6JMnLYcQMV5OTGosecGeOKU7rBIPP0nuuIUToB3MCGVsY5X3z9gXe0Axv5CGbuZB279C7zh19tvfsTWbh3X/vuyiHV0a67dk7X1JKvrqEiA0nXzegA63rT8mrS4bElxwz8mpQsu6ELcs3+MPOv4dm2M7rOH3231RfvqvA/fmy/a8644ojqOKUakn7ysKkCR3qFPTltLADWp8byFVXivfe+s32EmSVopXIhOXNY45eO85J+XL+jhXzi543LLEoV4v1b2C4tr+d8R/NYxe2zR49OP+s2sBGcgSqZplKeixRFFTm4rou2P0fdF43vdzQWrywK2qLTciAArWmWVZPOvyrSE4WZ5xWzbuiCnDMwN5/zoGdzIVlV/JrQb/OThi1KFJmKJfLBWYhflSGA35g501S6rMoWVdOYmVtcL/j39Y83jj1bvPdf1j+nVBIgRPk7yhdgkbMlCA+oD9XrQssvyrPXJdfvMi21igJ1bm88HNodatE8ub+xe3ulgXwXqeMayTdK4UjsJfA552KJEGEqcxN/hQ2X5uzFqamyyr5XIpQCgR4J/c2zfU8lIaULhFKyFG9Nvq8jXFgSy7w0U15DilAKOLLVhQdYLxjSz0i5O0IpFuONQ8jwiWnG71ghT0IN5Rgq4HGewySAujSZV1oFhlCK+GIjgd9hLhELqKFMJX4L2j+JDhcQXcLMOY5KhFLQl0Po/xFBaIclJWVKhFIyE88xlIUS+J/KZ0iooQIDBU1R4/BlnKmV7yjFInHhUlQ5AA==)
-![Nix](https://img.shields.io/badge/Nix-black?style=for-the-badge&logo=nix&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-black?style=for-the-badge&logo=nixos&logoColor=blue)
 ![bash](https://img.shields.io/badge/bash-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![lua](https://img.shields.io/badge/lua-black.svg?style=for-the-badge&logo=lua&logoColor=white)
+![lua](https://img.shields.io/badge/lua-black.svg?style=for-the-badge&logo=lua&logoColor=blue)
 
 ### Операционки: 
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
@@ -22,7 +22,7 @@
 ![ncurses](https://img.shields.io/badge/ncurses-black.svg?style=for-the-badge&logo=ncurses&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-black.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-black.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-black?style=for-the-badge&logo=nix&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-black?style=for-the-badge&logo=nixos&logoColor=blue)
 
 ### Мои проекты:
 * ### OpenDelta
@@ -47,8 +47,8 @@
 
 * ### dfetch
   #### Компактный фетч на Go.
-  #### Поддерживаются дистрибутивы и ос: Arch, Artix, NixOS, FreeBSD, Gentoo, Debian, Mint, Android.
-  #### В дальнейшем может появятся Devuan, Void, EndeavourOS и GhostBSD.
+  #### Поддерживаются дистрибутивы и ос: Arch, Artix, NixOS, FreeBSD, Gentoo, Debian, Mint, Android, Devaun, Void, EndeavourOS.
+  #### В дальнейшем может появятся GhostBSD.
 
 * ### termfetch
   ##### Фетч для терминалов на Haskell.
